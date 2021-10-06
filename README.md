@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution link](https://github.com/Abdihakim20/huddle-landing-page)
-- Live Site URL: [Live site link](https://your-live-site-url.com)
+- Live Site URL: [Live site link](https://abdihakim20.github.io/huddle-landing-page/)
 
 
 ### Built with
