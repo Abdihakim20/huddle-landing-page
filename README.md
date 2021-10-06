@@ -1,12 +1,12 @@
 # Frontend Mentor - Huddle landing page with single introductory section solution
 
-This is a solution to the [Huddle landing page with single introductory section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Huddle landing page with single introductory section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0). 
 
 ## Table of contents
 
  - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
+  - [Screenshot](#screenshots)
   - [Links](#links)
   - [Built with](#built-with)
   - [Author](#author)
@@ -23,15 +23,15 @@ Users should be able to:
 - View the optimal layout for the page depending on their device's screen size
 - See hover states for all interactive elements on the page
 
-### Screenshot
+### Screenshots
 
 ![Desktop View](./screenshots/desktop-layout.png)
 
 ![Mobile View](./screenshots/mobile-view.png)
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution link](https://github.com/Abdihakim20/huddle-landing-page)
+- Live Site URL: [Live site link](https://your-live-site-url.com)
 
 
 ### Built with
@@ -45,7 +45,7 @@ Users should be able to:
 
 - Abdihakim
 - h.abdihakim01@gmail.com
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- 0792002156
 
 ## Acknowledgments
 
